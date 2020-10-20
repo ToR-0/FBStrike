@@ -16,7 +16,7 @@
 # Installation
 
     git clone https://github.com/FBStrike/FBStrike.git
-   <a href="https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/FBStrike/FBStrike.git" rel="nofollow"><img src="https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png" alt="Open in Cloud Shell" style="max-width:100%;"></a>
+   <a href="https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/FBStrike/FBStrike.git" rel="nofollow"><img src="https://user-images.githubusercontent.com/27065646/92304704-8d146d80-ef80-11ea-8c29-0deaabb1c702.png" alt="Open in Cloud Shell" style="max-width:100%;"></a><br />
    1.Visit this [github](https://github.com/locmai0808/Facebook-Access-Token) to get your facebook token.
 # Usage
 
