@@ -34,6 +34,12 @@ Thank you for contributing to FBStrike!
 
 Before creating a pull request with new development, please run the tests to ensure that everything is working great. It would also be a good idea to run the tests before starting development to distinguish problems between your environment and the FBStrike software.
 
+# Related
+
+ 
+
+ - https://github.com/sherlock-project/sherlock
+
 # Npm Dependancies
 
  1. https://www.npmjs.com/package/chalk
