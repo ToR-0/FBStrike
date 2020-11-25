@@ -13,6 +13,9 @@
   <img src="https://github.com/FBStrike/FBStrike/blob/main/img.PNG?raw=true"></img>
 </p>
 
+# Warning
+Right now, we are not keeping the software maintained and updated due to other projects.
+
 # Installation
 
     git clone https://github.com/FBStrike/FBStrike.git
